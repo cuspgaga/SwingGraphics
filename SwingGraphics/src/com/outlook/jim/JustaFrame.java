@@ -17,5 +17,6 @@ public class JustaFrame extends Frame {
 		JustaFrame frame = new JustaFrame();
 		frame.setSize(200, 200);
 		frame.setVisible(true);
+		//this is a test
 	}
 }
